@@ -1,1 +1,1 @@
-document.write("hello learnjs v2.0")
+// document.write("hello learnjs v2.0")
