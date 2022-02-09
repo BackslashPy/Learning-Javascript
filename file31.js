@@ -10,3 +10,12 @@ fruits.push("banana")
 console.log(fruits)
 // you can push pop in a const
 // 0x11 is array addrss which is in heap memory
+
+
+
+
+
+
+
+
+
