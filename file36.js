@@ -25,5 +25,7 @@ console.log(person.hobbies)
 // console.log(person.age)
 
 // how to add key value pair to objects
-person.gender="male"
-console.log(person)
+// person.gender="male"
+// console.log(person["name"])
+person["gender"]="male"
+console.log(person["name"])
